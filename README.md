@@ -1,5 +1,5 @@
 # [仿微金所首页](https://kingziqiang.github.io/wjs_index)
-  ## 主要技术
+  ## 技术栈
   - bootstrap
   - less
   - 字体图标设计和使用
